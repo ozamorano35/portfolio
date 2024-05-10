@@ -1,0 +1,21 @@
+ol, ul {
+    list-style: none;
+}
+header{
+  
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+header nav ul{
+    display: flex;
+    gap: 15px;
+}
+
+header a i {
+color: white;
+font-size: 40px;
+}
